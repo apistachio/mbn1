@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Mind Body Nutrition</title>
+
+  <!-- Bootstrap Core CSS -->
+  <!--
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+  -->
+  <link href="bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+  <!-- Fonts -->
+  <link href="font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+  <link href="css/nivo-lightbox.css" rel="stylesheet" />
+  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  <link href="css/animate.css" rel="stylesheet" />
+  <!-- Squad theme CSS -->
+  <link href="css/style.css" rel="stylesheet">
+  <link href="color/default.css" rel="stylesheet">
+
+</head>
+
+<body data-spy="scroll">
+  <div class="container-fluid">
+    <div class="col-xs-1 col-md-2 col-lg-1">
+      <ul id="gn-menu" class="gn-menu-main">
+        <li class="gn-trigger">
+          <a class="gn-icon gn-icon-menu"><span>Menu</span></a>
+          <nav class="gn-menu-wrapper" >
+            <div class="gn-scroller" >
+              <ul class="gn-menu">
+                <li><a href="#about" class="gn-icon gn-icon-earth">About</a></li>
+                <li><a href="#service" class="gn-icon gn-icon-cog">Counseling</a></li>
+                <li><a href="#works" class="gn-icon gn-icon-help">Classes</a></li>
+                <li><a href="#contact" class="gn-icon gn-icon-archive">Contact</a></li>
+              </ul>
+            </div>
+            <!-- /gn-scroller -->
+          </nav>
+        </li>
+        <li>
+          <!-- <a href="index.html"> </a> -->
+        </li>
+        <li style="padding-left:20px; padding-right:20px" class="hidden-xs">
+          <strong>
+          <a href="#works">
+          <p> Food for Fertility Class Series 
+          <br>Open registration</p></a>
+          <!--
+          <br>Registration is now open</p></a>
+          -->
+          </strong>
+        </li>
+        <li style="padding-right:20px; position: relative" class="hidden-xs">
+          <strong>
+          <p>
+          Judy Simon MS, RDN, CD, CHES<br>
+          (425)-260-8783</p>
+           
+          </strong>
+        </li>
+        
+        
+      </ul>
+    </div>
+  </div>
+
+  <!-- Section: intro -->
+
+  <section id="intro" class="intro">
+    <div class="slogan">
+      <h1>Mind Body Nutrition, PLLC</h1>
+      <a href="#about" class="btn btn-skin scroll">Learn more</a>
+      <div class="row voffset">
+        <br/>
+        <br/>
+        <p><strong>Healthy Eating For Life</strong></p>    
+      </div>
+    </div>
+  </section>
+  <!-- /Section: intro -->
+
+  <!-- Section: about -->
+
+  <section id="about" class="home-section text-center bg-gray">
+    <div class="heading-about marginbot-50">
+      <div class="container">
+        <div class="row">
+          <div class="section-heading">
+              <h2>About Me</h2>
+          </div>
+          <div class="col-xs-4 col-sm-4 col-md-4">
+            <div class="thumbnail">
+              <img src="nimg/jsimon-070616.jpg" alt=""/>
+              <h4 class="caption">Judy Simon</h4>
+            </div>
+          </div>
+          
+          <div class="col-xs-8 col-sm-8 col-md-8 text-left">
+              <p>Judy Simon MS, RDN, CD, CHES specializes in nutrition counseling for
+                  individuals, couples and families. Judy provides evidence-based nutrition
+                  counseling in eating disorders, reproductive nutrition (fertility), and weight
+                  management. She is recognized nationally as an expert of nutrition and
+                  fertility.</p>
+              <p>Judy offers her clients the unique experience of a non-dieting, intuitive
+                  approach to healthy eating. Many of her clients have tried traditional
+                  diets and programs and failed. Instead, Judy combines her expertise
+                  in nutrition and coaches
+                  her clients to success to lose weight, overcome eating disorders and
+                  master self-management of their health.</p>
+              <p>Judy’s professional contributions garner national attention from the nutrition 
+                  and fertility fields. The Academy of Nutrition and Dietetics awarded Judy the 
+                  Excellence in Practice in Women's Health in 2014. Additionally, in 
+                  coordination with Dr. Angela Thyer, Judy developed the Food for 
+                  Fertility Program (TM) in 2011. 
+                  Judy presented the outcomes of the Food for Fertility program at the American 
+                  Society Reproductive Medicine (2013) and the Pacific Coast Reproductive 
+                  Society Annual Scientific Meeting (2015).</p>
+              <p>While currently serving as President of the Seattle Tacoma Reproductive
+                  Society (2014-2015), Judy also participates as a member coordinator of the 
+                  Women's Health Dietetic Practice Group. She continues to act as the past-chair 
+                  of the Nutrition sub-interest group of the American Society of Reproductive Medicine.</p>
+            
+          </div>
+       </div>  
+        <div class="row">
+         <h5>Active professional affiliations.</h5>
+        <img src=nimg/Academy_member.png>
+        <img src=nimg/resolve.jpg height="30%" width="30%">
+        <img src=nimg/asrm.jpg height="30%" width="30%">
+        </div>
+      </div>
+    </div> 
+  </section>
+  <!-- /Section: about -->
+  <!-- Section: services -->
+  <section id="service" class="home-section text-center">
+    <div class="heading-about marginbot-50">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="section-heading">
+              <h2>Counseling</h2>
+              <h4>How We Begin</h4>
+              <p>Your first visit is usually ninety-minutes. Pick a comfortable time. 
+                After your first visit, we can schedule a fifty-minute follow-up session 
+                as appropriate.</p>
+              <br>
+              <h4>How I can help</h4>
+              <p>I will go into more detail about what counseling 
+                experiences you can expect. Below are my areas of expertise.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row panel-b">
+        <div  class="row-height">
+          <div class="col-xs-6 col-sm-3 col-md-3">         
+            <div class="team boxed-grey">
+              <div class="inner">
+                <h5>Reproductive Nutrition</h5>
+                <!--
+                <p class="subtitle">brief description</p>
+                -->
+                <div class="avatar">
+                <!-- -->
+                  <img src="nimg/strawberries2a.jpg" alt="" class="img-responsive " />
+                  
+               
+                </div>
+              </div>
+            </div>         
+          </div>
+          <div class="col-xs-6 col-sm-3 col-md-3">
+            <div class="team boxed-grey">
+              <div class="inner">
+                <h5>Health and Wellness</h5>
+                <!--
+                <p data-toggle="tooltip" data-placement="top" 
+                   title="whatever">brief description</p>
+                -->
+                <!--
+                <p class="subtitle">brief description</p>
+                -->
+                <div class="avatar">
+                <!---->
+                  <img src="nimg/veg1a.jpg" alt="" class="img-responsive "  />
+                
+                </div>
+              </div>
+            </div>                  
+          </div>     
+          <div class="col-xs-6 col-sm-3 col-md-3">     
+            <div class="team boxed-grey">
+              <div class="inner">
+                <h5>Eating disorders</h5>
+                <!--
+                <p class="subtitle">brief description</p>
+                -->
+                <div class="avatar">
+                <!---->
+                  <img src="nimg/veg2a.jpg" alt="" class="img-responsive "  />
+                  
+                
+                </div>
+              </div>
+            </div>        
+          </div>
+          <div class="col-xs-6 col-sm-3 col-md-3">
+            <div class="team boxed-grey">
+              <div class="inner">
+                <h5>Corporate wellness</h5>
+                <!--
+                <p class="subtitle">brief description</p>
+                -->
+                <div class="avatar">
+                <!---->
+                  <img src="nimg/pan1a.jpg" alt="" class="img-responsive "  />
+                  
+                
+                </div>
+              </div>
+            </div>        
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- /Section: services -->
+  <!-- Section: works -->
+
+  <section id="works" class="home-section text-center bg-gray">
+    <div class="heading-works marginbot-50">
+      <div class="container">
+        <div class="row">
+          <div class="section-heading">
+            <h2>Classes</h2>
+            
+          </div>
+          <div class="col-xs-4 col-sm-4 col-md-4">
+            <img src="nimg/strawberries.JPG" class="img-responsive" height="75%" width="75%">
+          </div>
+          <div class="col-xs-8 col-sm-8 col-md-8 text-left">
+            <h4 class="">Food For Fertility</h4>
+            <p>Before participating in classes, Judy first meets with patients 
+              for a 90-minute consultation. She works with patients to build 
+              an individually-designed
+              nutrition and fitness program based on their current lifestyle, labs, weight 
+              and fertility plan in conjunction with their  health care provider.</p>
+            <p>Food for Fertility’s highly interactive sessions offer participants lifestyle 
+              counseling in a supportive group setting. The classes foster skills that enable 
+              weight loss and fertility, focusing on healthy eating, meal-planning strategies, 
+              and exercise habits. We cook, taste, meal plan, and partake in light exercise. 
+              After the class, we take an optional 30 minute walk along beautiful Lake Union. 
+              The program consists of six weekly sessions on Saturday, 90 minutes each.<br> Fee: $300
+              (includes attendance fee for 1 monthly follow-up class)</p>
+              <br>
+            <p>The next series begins September 17, 2016</p>
+            <p>Time: 9:00AM - 11:00AM</p>
+            <p>Location: Seattle Reproductive Medicine, 1505 West Lake N Seattle, WA 98109. </p>
+            <br>
+            <h4>Food for Fertility support group</h4>
+            <p>Monthly group classes are available for continued education and 
+              support for Food for Fertility graduates and new patients.
+              The support group will meet September 24th, from 10:25AM to 12:15PM at
+              Seattle Reproductive Medicine.<br> Fee: $45</p>
+            
+            
+          </div>
+          <div class="col-xs-4 col-sm-4 col-md-4">
+            <img src="nimg/childeating.JPG" class="img-responsive" height="75%" width="75%">
+          </div>
+          <div class="col-xs-8 col-sm-8 col-md-8 text-left">
+            <h4>Food For Moms support group</h4>
+            <p>Join new moms, moms to be, moms with toddlers, and moms with multiples. We meet, 
+              eat, share, learn and take a 20 to 30 minute gentle walk. Babies, toddlers, pregnant
+              moms are all welcome! Each monthly class focuses on nutrition and health topics for 
+              moms and children including recipes and healthy snacks.<br>Fee: $50</p>
+        <p>Next class: September 24th, 3:30PM to 5:00PM</p>
+        <p> Location: Phyllis A. Needy Park, 10811 NE 47th Street, Kirkland, WA 98033</p>
+            <br/>
+            <h4>
+              <a href="mailto:judy@mind-body-nutrition.com">
+                <strong>Contact Judy to sign-up for a class</strong>
+              </a>
+            </h4>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+          </div>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /Section: works -->
+
+  <!-- Section: contact -->
+  <section id="contact" class="home-section text-center">
+    <div class="heading-contact marginbot-50">    
+  
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-lg-offset-1">
+            <div class="section-heading">
+              <h2>Appointments and Contact</h2> 
+                    
+              <div class="row panel-b text-left">
+                
+                <div class="col-xs-6 col-sm-4 col-md-4">         
+                  <div class="team boxed-grey">
+                    <div class="inner">
+                      <h5>Email Address</h5>
+                      <address>
+                        <a href="mailto:judy@mind-body-nutrition.com">
+                          <strong>judy@mind-body-nutrition.com</strong>
+                        </a>
+                        <br/>
+                      </address>                     
+                      <h5>Postal Address</h5>
+                      <address class="text-left">
+                        <strong>Mind Body Nutrition, PLLC</strong><br>
+                        1409 140th Place Suite 106<br>
+                        Bellevue, WA 98007
+                        </br></br>
+                        <h5>Phone numbers</h5>
+                        
+                        <abbr title="Phone">phone:</abbr> (425) 260-8783<br>
+                        <abbr title="Fax">fax:</abbr> (425) 460-7798
+                      </address>
+                    </div>
+                  </div>         
+                </div>   
+                <div class="col-xs-6 col-sm-8 col-md-8">     
+                  <div class="team boxed-grey">
+                    <div class="inner">
+                      <h5>Directions</h5>
+                      <p>
+                        In Bellevue, take Bellevue-Redmond Road.
+                        <br>
+                          Turn South on 140th Ave NE. 
+                          Take your first left onto NE 14th St. 
+                          First left again into Rockwood Office Park. 
+                          Follow signs to Building 1409.
+                      </p>
+                    </div>
+                  </div>        
+                </div>      
+              </div>
+              
+    
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-lg-offset-3">
+          <div class="section-heading">  
+            <h3>Payment</h3>     
+            <div class="row panel-b text-left">      
+              <div class="col-xs-10 col-sm-8 col-md-8">         
+                <div class="team boxed-grey">
+                  <div class="inner">
+                     <p>When you visit, please plan to pay at time of service. I accept Master, 
+                    Visa, and Discover charge cards including health savings debit cards.</p>
+                    <p>I am an out-of-network provider. At time of service, I will provide 
+                      documentation that you can submit to your insurance or your 
+                      flexible spending acount (FSA) administrator.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /Section: contact -->
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-offset-3 col-md-6 ">
+
+          <p>Copyright &copy; 2007-2015 Mind Body Nutrition, PLLC</p>
+
+          <button class="btn btn-primary" type="button" data-toggle="collapse"
+                  data-target="#Pri" 
+                  aria-expanded="false" aria-controls="Pri">Privacy</button>
+          <div class="collapse" style="background:blue" id="Pri">
+            <div class="well text-left ">
+              <div style="background:grey; color:green;margin: 0 0 0 0;border-width:0px">
+                <p> We respect your privacy. </p> 
+                <p> This website, Mind-Body-Nutrition, does not collect information about you</p>
+              </div>
+            </div>
+          </div>
+
+<!--
+.navbar-default .navbar-nav .open .dropdown-menu>li>a,.navbar-default .navbar-nav .open .dropdown-menu {
+  	background-color: #3344ff;
+    color:#ffffff;
+  }
+          <div class="panel-group col-md-1" id="accordion" role="tablist" 
+               aria-multiselectable="true" style="color:#ffffff">
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="heading1">
+                <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent=#accordion"
+                  href="#collapse1" aria-expanded="true" aria-controls="collapse1">Privacy</a>
+                </h4>
+              </div>
+            <div id="collapse1" class="panel-collapse collapse in" role="tabpanel"
+                 aria-labelledby="heading1">
+              <div class="panel-body">
+              </div>
+             </div>
+            </div>
+          </div>
+-->
+          
+          <ul style="list-style-type:none;" class="company-social">
+            <li class="social-facebook">
+              <a href="http://www.facebook.com/mindbodynutritionpllc" 
+                 target="_blank"><i class="fa fa-facebook"></i></a>
+            </li>
+            <li class="social-twitter">
+              <a href="https://twitter.com/jsimonrd" 
+                 target="_blank"><i class="fa fa-twitter"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Core JavaScript Files -->
+  <script src="js/jquery.min.js"></script>
+  <!--
+  <script src="js/bootstrap.js"></script>
+  -->
+  <script src="bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/classie.js"></script>
+  <script src="js/gnmenu.js"></script>
+  <script src="js/jquery.scrollTo.js"></script>
+  <script src="js/nivo-lightbox.min.js"></script>
+  <script src="js/stellar.js"></script>
+  <!-- Custom Theme JavaScript -->
+  <script src="js/custom.js"></script>
+  <script>$(function () {$('[data-toggle="popover"]').popover()})</script>
+  <script> function pri() {return "hi this is your privacy"; }</script>
+  <script
+          $('.nav a').on('click', function() {
+          $(".btn.navbar").click();
+          $(".navbar-toggle").click()
+          })
+  </script>
+
+</body>
+
+</html>
